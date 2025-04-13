@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m Tim.
+- 👀 I’m interested in technology, engineering, and many other fields.
+- 🌱 I’m currently studying Bachelor of Computer Science at Deakin University.
+- 🔭 I'm currently working on a number of projects that will soon be public GitHub Repos!
 
 <!--
 **TimStuteley/TimStuteley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
